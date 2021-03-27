@@ -21,13 +21,13 @@ Running the tests
 -------------------------------
 Please enter this example to run the program
 
-Example 1 :
+Example No 1 :
 No 11, Chendering, 21080, Kuala Terengganu, Terengganu.
 
 Result : 
 The output will display each classified of address by types.
 
-Example 2:
+Example No 2:
 No 11 Chendering 21080 Kuala Terengganu Terengganu.
 
 Result : 
